@@ -56,7 +56,6 @@ The site presents your professional profile, projects, and contact form in a sle
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dsgmvb3o0/image/upload/v1750286586/Screenshot_2025-06-19_041002_a9ourk.png" alt="Home Section" width="45%" style="margin:8px; border-radius:8px;" />
   <img src="https://res.cloudinary.com/dsgmvb3o0/image/upload/v1750286586/Screenshot_2025-06-19_041039_e8rsz2.png" alt="Skills Section" width="45%" style="margin:8px; border-radius:8px;" />
   <img src="https://res.cloudinary.com/dsgmvb3o0/image/upload/v1750286586/Screenshot_2025-06-19_041059_gfvhmh.png" alt="Projects Section" width="45%" style="margin:8px; border-radius:8px;" />
   <img src="https://res.cloudinary.com/dsgmvb3o0/image/upload/v1750286586/Screenshot_2025-06-19_041113_ujfr1x.png" alt="Contact Form" width="45%" style="margin:8px; border-radius:8px;" />
@@ -65,7 +64,7 @@ The site presents your professional profile, projects, and contact form in a sle
 ---
 
 ## 🚀 Live Demo
-Experience the app yourself: [**View Live Demo on Vercel**](https://portfolio-three-lovat-34.vercel.app/) 
+Experience the app yourself: [**View Live Demo**](https://www.ammarfaroq.me) 
 
 ---
 
